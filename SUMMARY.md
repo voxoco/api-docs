@@ -13,6 +13,7 @@
   * [Call Queues](reference/api-reference/queues.md)
   * [Call Queue Managers](reference/api-reference/queue-managers.md)
   * [Call Recordings](reference/api-reference/call-reports.md)
+  * [Call Reports (CDR)](reference/api-reference/call-reports-1.md)
   * [Conference Rooms](reference/api-reference/conference-bridges.md)
   * [Custom Destinations](reference/api-reference/customs.md)
   * [Devices](reference/api-reference/devices.md)
